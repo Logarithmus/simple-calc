@@ -1,0 +1,23 @@
+package dev.logarithmus.simplecalc.helpers
+
+const val DIGIT = "digit"
+const val EQUALS = "equals"
+const val PLUS = "plus"
+const val MINUS = "minus"
+const val MULTIPLY = "mult"
+const val DIVIDE = "divide"
+const val DECIMAL = "decimal"
+const val CLEAR = "clear"
+const val RESET = "reset"
+
+const val NAN = "NaN"
+const val ZERO = "zero"
+const val ONE = "one"
+const val TWO = "two"
+const val THREE = "three"
+const val FOUR = "four"
+const val FIVE = "five"
+const val SIX = "six"
+const val SEVEN = "seven"
+const val EIGHT = "eight"
+const val NINE = "nine"
