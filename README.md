@@ -1,2 +1,2 @@
 # simple-calc
-The stupidiest Android calculator in the world
+The most stupid Android calculator in the world
